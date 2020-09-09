@@ -13,6 +13,9 @@ div {
   
 }
 
+main-header{
+  background: black;
+}
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {
